@@ -6,6 +6,8 @@
 
 ## Artiklar
 
+**Vanliga misstag när man skriver BEM:** https://dev.to/visuellverstehen/common-mistakes-when-writing-css-with-bem-4921
+
 ## Videor
 
 ## Inspelningar
