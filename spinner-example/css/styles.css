@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+}
+
+.spinner {
+    width: 0.4rem;
+    height: 3rem;
+    background-color: red;
+    border-radius: 99rem;
+    animation: spin 1s linear infinite;
+}
+
+/* Vi har flera steg för att vi byter bakgrundsfärg */
+@keyframes spin {
+    0% { transform: rotateZ(0deg);    background: red;    }
+   25% { transform: rotateZ(90deg);   background: green;  }
+   50% { transform: rotateZ(180deg);  background: blue;   }
+   75% { transform: rotateZ(270deg);  background: purple; }  
+  100% { transform: rotateZ(360deg);  background: red;    }
+}
