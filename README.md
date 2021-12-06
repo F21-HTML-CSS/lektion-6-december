@@ -11,3 +11,5 @@
 ## Videor
 
 ## Inspelningar
+
+https://funet-my.sharepoint.com/:f:/g/personal/christoffer_wallenberg_folkuniversitetet_se/El3ZAYdp2jNEpmUOyVxm8rMBjLi2EfaxVo3Sw5PUGyQ8Wg?e=WD95Kz
